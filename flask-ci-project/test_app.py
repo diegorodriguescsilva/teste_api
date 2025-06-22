@@ -1,3 +1,5 @@
+# Testes criados por Diego para CI 🚀
+
 import pytest
 from app import app
 
